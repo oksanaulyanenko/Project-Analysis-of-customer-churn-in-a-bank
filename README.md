@@ -1,1 +1,1 @@
-# Project-Analysis-of-customer-churn-in-a-bank
+Проект по анализу оттока клиентов в банк. 
